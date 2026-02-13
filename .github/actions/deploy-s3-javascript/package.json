@@ -1,6 +1,6 @@
 {
-"name": "deploy-s3-javascript"
-"main": "main.js"
+"name": "deploy-s3-javascript",
+"main": "main.js",
  "type":"commonjs",
   "dependencies": {
     "@actions/core": "^3.0.0",
